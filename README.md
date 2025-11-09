@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Website-sagaruprety.com.np-green?style=flat-square)](https://sagaruprety.com.np)
 
 ## About
-👋 Heyo, I'm Sagar Uprety. I'm a Cloud Native Developer at SAP Fioneer and MSc. student at TU Munich working with @campus-experts. I work on cloud infrastructure automation, deployment pipelines, and event management solutions with a focus on JavaScript, Dart/Flutter, and infrastructure-as-code tools.
+👋 Heyo, I'm Sagar Uprety. I'm a Cloud Native Developer at SAP Fioneer and student at TU Munich. I work on cloud infrastructure automation, deployment pipelines, and event management solutions with a focus on JavaScript, Dart/Flutter, and infrastructure-as-code tools.
 
 - 📍 Location: Munich, Germany
 - 🎓 Education: 
